@@ -1,0 +1,19 @@
+{
+  "name": "LeetCode Helper",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "LeetCode Helper Extension",
+  "background": {
+    "scripts": [
+      "hot-reload.js"
+    ]
+  },
+  "content_scripts": [{
+    "matches": [
+      "https://leetcode.com/problems/*"
+    ],
+    "js": [
+      "index.js"
+    ]
+  }]
+}

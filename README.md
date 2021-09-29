@@ -4,6 +4,10 @@
 
 Clone this repo. Then access to "chrome://extensions" and "Load Unpacked".
 
+### Store
+
+Submitting...
+
 ### Features
 
 Add following shortcuts for Mac.

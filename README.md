@@ -6,7 +6,7 @@ Clone this repo. Then access to "chrome://extensions" and "Load Unpacked".
 
 ### Store
 
-Submitting...
+https://chrome.google.com/webstore/detail/leetcode-helper/lnjiapclfonieelaakbdfehmgboenmfa?hl=en-US
 
 ### Features
 
